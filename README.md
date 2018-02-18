@@ -1,0 +1,1 @@
+Note: many files are named to reflect how the second half is "different" from the first half -- e.g. "week 1" lecture notes even though technically it is week 7/8 in the Winter 2018 term. Top level folder names more accuarately reflect time with respect to the normal academic schedule.
